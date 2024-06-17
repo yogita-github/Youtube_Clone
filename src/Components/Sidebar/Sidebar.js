@@ -238,7 +238,7 @@ const Sidebar = () => {
                             <Link to="/">Policy &amp; Safety</Link>
                             <Link to="/">How Youtube works</Link>
                             <Link to="/">Test new features</Link>
-                            <h3>&copy; Teenage Programmer</h3>
+                            <h3>&copy; Something Random</h3>
 
                         </div>
                     </div>
