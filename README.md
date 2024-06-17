@@ -1,3 +1,8 @@
+
+![Screenshot (3083)](https://github.com/yogita-github/Youtube_Clone/assets/103029645/4d3e7503-1580
+![Screenshot (3085)](https://github.com/yogita-github/Youtube_Clone/assets/103029645/8d1d6e8e-97a6-4de4-8187-3a917ae08287)
+-4402-a770-358072618068)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
