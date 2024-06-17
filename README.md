@@ -1,5 +1,6 @@
 
-![Screenshot (3083)](https://github.com/yogita-github/Youtube_Clone/assets/103029645/4d3e7503-1580
+![Screenshot (3083)](https://github.com/yogita-github/Youtube_Clone/assets/103029645/9f4a2ec0-4338-44e2-9372-1df7e2537aab)
+
 ![Screenshot (3085)](https://github.com/yogita-github/Youtube_Clone/assets/103029645/8d1d6e8e-97a6-4de4-8187-3a917ae08287)
 -4402-a770-358072618068)
 
